@@ -359,6 +359,8 @@ Crie um diagrama simples usando ferramentas como [Draw.io](https://app.diagrams.
 1. Um bucket no Amazon S3.
 2. Scripts de backup e restauração.
 3. Um diretório local sincronizado com o S3.
+4. A imagem da página em funcionamento.
+   ![Imagem do funcionamento do projeto](https://github.com/esaluno100/-Armazenamento-de-Dados-para-Backups-e-Recupera-o-de-Desastres-usando-o-Amazon-S3-.-/blob/main/backup%20e%20recupera%C3%A7%C3%A3o%20funcionando.png)
 
 ---
 
